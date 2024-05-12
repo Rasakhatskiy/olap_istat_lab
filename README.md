@@ -1,0 +1,1 @@
+### This repo contains csv data for database import, python script for import and sql queries and stored functions
